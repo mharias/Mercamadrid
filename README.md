@@ -8,7 +8,7 @@ La información esta estructura en una serie de campos tales como:
   * Código de la mercancia
   * Origen de la mercancia
   * Código de este origen
-  * Peso de la mercancia en Kilos
+  * Peso de la mercancia en Kilos (o unidades en el caso de mercancías que no se vendan por peso)
   * Precio mínimo registrado
   * Precio máximo registrado
   * Precio más frecuente
