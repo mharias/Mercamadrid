@@ -15,7 +15,7 @@ La información esta estructura en una serie de campos tales como:
 
 He intentado  minimizar el tamaño del pandas con el modelo propuesto por @mattharrison, estoy haciendo un esfuerzo para seguir el "chaining" siempre que sea posible.
 
-Presentamos el código necesario para bajar la información desde su respositorio en datos Madrid, y preparamos una rejilla de datos con los mismos..
+Presentamos el código necesario para bajar y preparar adecuadamente la información desde su repositorio en datos Madrid, y preparamos una rejilla de datos con los mismos..
 En cada subgráfica, una por cada producto, presentamos la evolución del consumo como barras (eje "y" izquierda) )y la evolución de precios (eje "y" derecha). Para claridad se han codificado las barras según temperatura del mes..
 
 ![](https://github.com/mharias/Mercamadrid/blob/main/img/evolucion_consumo_precio.png)
