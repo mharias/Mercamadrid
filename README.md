@@ -1,5 +1,5 @@
 # Mercamadrid
-Hemos preparado un código para bajar datos de la actividad comercial de mayoristas en Mercamadrid.
+Hemos preparado un [código](https://github.com/mharias/Mercamadrid/blob/main/code/evolucion_precios.ipynb) para bajar datos de la actividad comercial de mayoristas en Mercamadrid.
 
 La información esta estructura en una serie de campos tales como:
   * Fecha inicial del segmento de tiempo al que se refieren los datos
